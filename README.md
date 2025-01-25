@@ -13,4 +13,4 @@ Trabajado en el curso JavaScript Moderno en DevTalles
 
 ## Desplegado
 
-### https://blackjack-vite-jhon.netlify.app/
+### [Link](https://blackjack-vite-jhon.netlify.app/)
