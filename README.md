@@ -11,3 +11,6 @@ Trabajado en el curso JavaScript Moderno en DevTalles
 ### `npm run build`
 ### desplegar la carpeta "dist" generada
 
+## Desplegado
+
+### https://blackjack-vite-jhon.netlify.app/
